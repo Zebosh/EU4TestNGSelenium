@@ -1,0 +1,1 @@
+/Users/muzaffarruzmetov/IdeaProjects/EU4TestNGSelenium/src/test/resources/textfile.txt
